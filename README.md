@@ -1,5 +1,4 @@
-# SBTDF204_CaseStudy4-
-Case Study 4: Investigating Rhion Possession Evidence
+
 # SBT-DF204 Computer Forensics Case Study 4 — Investigating Rhion Possession Evidence
 
 ## Student Details
